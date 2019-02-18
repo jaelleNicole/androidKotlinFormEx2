@@ -80,7 +80,7 @@
 
         <Button
                 android:id="@+id/btnValidateForm"
-                android:text="Validation du formulaire"
+                android:text="Envoyer"
                 android:layout_gravity="center"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
